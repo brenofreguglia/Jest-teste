@@ -25,12 +25,12 @@ As seguintes funções estão implementadas no projeto:
 
 2. **Funções Utilitárias:**
    - `potencia(base, expoente)`: Eleva o primeiro número à potência do segundo.
-   - `ehPar(numero)`: Verifica se um número é par.
+   - `Par(numero)`: Verifica se um número é par.
    - `maiorNumero(a, b)`: Retorna o maior número entre dois números.
    - `converterMaiuscula(str)`: Converte uma string para maiúsculas.
    - `inverter(str)`: Inverte uma string.
    - `fatorial(n)`: Calcula o fatorial de um número.
-   - `ehPalindromo(str)`: Verifica se uma string é um palíndromo.
+   - `Palindromo(str)`: Verifica se uma string é um palíndromo.
    - `calculaMedia(arr)`: Calcula a média de um array de números.
    - `celsiusParaFahrenheit(celsius)`: Converte uma temperatura de Celsius para Fahrenheit.
    - `removeDuplicatas(arr)`: Remove duplicatas de um array.
